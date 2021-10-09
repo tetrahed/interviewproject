@@ -1,6 +1,6 @@
-# ansync_interview_project
+# Ansync Software Aptitude Project #2
 
-Interview project for Ansync.
+Software Aptitude Project #2 for Ansync. Part of the interview project using the Flutter platform and Dart. 
 
 ## Getting Started
 
